@@ -165,7 +165,7 @@ section {
 }
 
 #services .card img{
-    filter: drop-shadow(15px 5px 2px #000000);
+    filter: drop-shadow(15px 5px 2px #1aac98);
     width: 5em;
 }
 /* END SERVICES CARD */
@@ -236,9 +236,9 @@ section {
   }
 
   .faq-question {
-    background-color: #f8f9fa;
+    background-color: #2ca527;
     border: none;
-    border-bottom: 1px solid #dee2e6;
+    border-bottom: 1px solid #0b9b88;
     border-radius: 0;
     padding: 15px;
     font-size: 18px;
@@ -294,7 +294,7 @@ section {
 }
 
 #footer ul.list-unstyled li a {
-    color: #ffffff;
+    color: #581043;
 }
 
 #footer ul.list-unstyled li:hover a {
@@ -302,7 +302,7 @@ section {
 }
 
 #reviews h2, #services h2 {
-    color: var(--bg1);
+    color: #1791b6;
 }
 
 .btn-outline-light {
