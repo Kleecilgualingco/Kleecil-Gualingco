@@ -290,7 +290,7 @@ section {
   #footer {
     padding-top: 50px;
     padding-bottom: 50px;
-    background-color: var(--bg1);
+    background-color: #109e86;
 }
 
 #footer ul.list-unstyled li a {
