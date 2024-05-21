@@ -195,7 +195,7 @@ section {
 }
 
 .testimonials {
-    background: linear-gradient(#121214b4, #121214b4, #121214b4, #121214b4, #121214b4);
+    background: linear-gradient(#18a518b4, #18a518b4, #18a518b4, #18a518b4, #18a518b4);
     padding: 30px;
 }
 
@@ -244,7 +244,7 @@ section {
     padding: 15px;
     font-size: 18px;
     font-weight: 500;
-    color: #343a40;
+    color: #209158;
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s; /* Add transition for smooth hover effect */
   }
