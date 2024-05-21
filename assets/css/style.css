@@ -243,7 +243,7 @@ section {
     padding: 15px;
     font-size: 18px;
     font-weight: 500;
-    color: #209158;
+    color: #18b365;
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s; /* Add transition for smooth hover effect */
   }
@@ -294,7 +294,7 @@ section {
 }
 
 #footer ul.list-unstyled li a {
-    color: #581043;
+    color: #09bda5;
 }
 
 #footer ul.list-unstyled li:hover a {
