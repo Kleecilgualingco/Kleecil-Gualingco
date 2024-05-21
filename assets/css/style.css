@@ -252,7 +252,7 @@ section {
     border-left: 3px solid var(--brand);
     padding: 10px 15px;
     margin-left: 0;
-    background-color: #f8f9fa;
+    background-color: #109e86;
   }
 
   .faq-answer p {
@@ -306,7 +306,7 @@ section {
 }
 
 .btn-outline-light {
-    border-color: #F2B03B !important;
+    border-color: #1791b6 !important;
     color: #F2B03B;
 }
 
